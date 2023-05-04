@@ -1,5 +1,5 @@
-<div><h1>SEO JAEWON</h1></div>
-
+<div><h1>JAEWON SEO</h1></div>
+Greeting👋
 <p align="center">
   <h3>📌 Profile</h3>
   Hongik University</br>
