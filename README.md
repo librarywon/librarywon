@@ -8,7 +8,7 @@
 
 <p align="center">
     <Strong>☁️Contact☁️</Strong><br><br>
- <a href="https://www.instagram.com/librarwon" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.instagram.com/librarywon" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br>
 <p align="center">
 <Strong>📧Email📧</Strong><br>librarywon@naver.com<br>
