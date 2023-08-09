@@ -7,16 +7,12 @@ Greeting👋
 </p>
 
 <p align="center">
-    <Strong>☁️SNS☁️</Strong><br><br>
- <a href="https://www.instagram.com/librarywon" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<br>
-<p align="center">
 <br>
 <Strong>📧Email📧</Strong><br><br>librarywon@naver.com<br>
 </p>
 <br>
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>I Studing~</Strong><br>
 </p>
 
 <p align="center" display="inline-block">
