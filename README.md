@@ -10,6 +10,11 @@ Greeting👋 
 
 ## Project
 
+> 2024
+> 
+- 웹소소(WebSoSo) - 웹소설을 더욱 간편하게 기록하고 기억할 수 있는 플랫폼 서비스 
+    - Android lead 개발, 33기 DO SOPT AppJam Project
+
 > 2023
 > 
 - 포포리(Pophory) - 잃어버릴 걱정 없는 모바일 네컷앨범 공유 보관 서비스 [Play Store Download](https://play.google.com/store/apps/details?id=com.teampophory.pophory&hl=ko-KR)
