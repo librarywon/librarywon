@@ -12,12 +12,12 @@ Greeting👋 
 
 > 2024
 > 
-- 웹소소(WebSoSo) - 웹소설을 더욱 간편하게 기록하고 기억할 수 있는 플랫폼 서비스 
+- [웹소소(WebSoSo)](https://github.com/Team-WSS/WSS-Android) - 웹소설을 더욱 간편하게 기록하고 기억할 수 있는 플랫폼 서비스 
     - Android lead 개발, 33기 DO SOPT AppJam Project
 
 > 2023
 > 
-- 포포리(Pophory) - 잃어버릴 걱정 없는 모바일 네컷앨범 공유 보관 서비스 [Play Store Download](https://play.google.com/store/apps/details?id=com.teampophory.pophory&hl=ko-KR)
+- [포포리(Pophory)](https://github.com/TeamPophory/pophory-android) - 잃어버릴 걱정 없는 모바일 네컷앨범 공유 보관 서비스 [Play Store Download](https://play.google.com/store/apps/details?id=com.teampophory.pophory&hl=ko-KR)
     - Android 개발, 32기 GO SOPT AppJam Project
 - 맛도리 - 맛집스터디 Notion DataBase 기반 맛집 검색 카카오톡 봇 [KakaoTalk link](https://pf.kakao.com/_xeBxdKG)
     - Server(flask) & KakaoTalk ChatBot 개발, 개인 Project
