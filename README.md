@@ -4,6 +4,9 @@ Greeting👋 
 
 **I am very interested in Android development.** 🤗
 
+## Blog
+[Velog](https://velog.io/@librarywon/posts)
+
 ## **Education**
 
 - Hongik University
