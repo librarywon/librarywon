@@ -7,9 +7,6 @@ Greeting👋 
 ## Contact
 Email : librarywon@gmail.com
 
-## Blog
-[Velog](https://velog.io/@librarywon/posts)
-
 ## **Education**
 
 - Hongik University
