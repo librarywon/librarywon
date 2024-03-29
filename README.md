@@ -23,7 +23,7 @@ Email : librarywon@gmail.com
 - [포포리(Pophory)](https://github.com/TeamPophory/pophory-android) - 잃어버릴 걱정 없는 모바일 네컷앨범 공유 보관 서비스 [Play Store Download](https://play.google.com/store/apps/details?id=com.teampophory.pophory&hl=ko-KR)
     - Android 개발, 32기 GO SOPT AppJam Project
 - 맛도리 - 맛집스터디 Notion DataBase 기반 맛집 검색 카카오톡 봇 [KakaoTalk link](https://pf.kakao.com/_xeBxdKG)
-    - Server(flask) & KakaoTalk ChatBot 개발, 개인 Project
+    - Server(flask) & KakaoTalk ChatBot 개발, 개인 Project 
 
 ## **Experience**
 
