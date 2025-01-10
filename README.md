@@ -19,6 +19,7 @@ Email : librarywon@gmail.com
 - [홍익열공이](https://github.com/TeamHY2/HongikYeolgong2-Android) - 홍익대학교 열람실 시스템 문제의 솔루션을 해결하고 지속적인 공부를 돕는 서비스 [Play Store Download](https://play.google.com/store/apps/details?id=com.teamhy2.hongikyeolgong2)
     - Android 개발, Project 기획, 마케팅 진행
     - 홍익열공이 취재 기사 : [본교 도서관 열람 좌석 배정 시스템…개선되나](http://hiupress.hongik.ac.kr/news/articleView.html?idxno=11185)
+    - [홍익열공이 타임라인 보러가기](https://librarywon.notion.site/175d1f8b1af280bda084e7b47a9cdbdc)
 - [웹소소(WebSoSo)](https://github.com/Team-WSS/WSS-Android) - 웹소설을 더욱 간편하게 기록하고 기억할 수 있는 플랫폼 서비스 
     - Android lead 개발, 33기 DO SOPT AppJam Project
 
