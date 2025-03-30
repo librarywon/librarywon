@@ -12,6 +12,17 @@ Email : librarywon@gmail.com
 
 - Hongik University
 
+## **Experience**
+
+> 2025
+> 
+- 여기어때컴퍼니 Android 인턴 (25.03 ~ )
+
+> 2023
+> 
+- 33th DO SOPT Android part
+- 32th GO SOPT Android part
+
 ## Project
 
 > 2024
@@ -30,17 +41,6 @@ Email : librarywon@gmail.com
 - 맛도리 - 맛집스터디 Notion DataBase 기반 맛집 검색 카카오톡 봇
     - Server(flask) & KakaoTalk ChatBot 개발, 개인 Project
     - [관련 디스콰이엇 아티클](https://disquiet.io/@librarywon/makerlog/%EB%8F%99%EC%95%84%EB%A6%AC%EC%97%90%EC%84%9C-%EB%A7%9B%EC%A7%91-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8B%A4%EA%B0%80-%EC%B1%97%EB%B4%87%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%93%A0-%EC%82%AC%EC%97%B0)
-
-## **Experience**
-
-> 2023
-> 
-- 33th DO SOPT Android part
-- 32th GO SOPT Android part
-
-> 2025
-> 
-- 여기어때컴퍼니 Android 인턴 (25.03 ~ )
 
 ## Tech Stack
 ### 💡Language
