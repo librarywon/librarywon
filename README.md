@@ -38,6 +38,10 @@ Email : librarywon@gmail.com
 - 33th DO SOPT Android part
 - 32th GO SOPT Android part
 
+> 2025
+> 
+- 여기어때컴퍼니 Android 인턴 (25.03 ~ )
+
 ## Tech Stack
 ### 💡Language
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
