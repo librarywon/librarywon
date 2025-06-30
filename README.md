@@ -17,7 +17,7 @@ Email : librarywon@gmail.com
 > 2025
 > 
 - 여기어때컴퍼니 Android 인턴 (25.03 ~ )
-  - Compose Preview 환경 개선 (2025.05) [기술 블로그 링크]
+  - Compose Preview 환경 개선 (2025.05) [기술 블로그 링크](https://techblog.gccompany.co.kr/네트워크-기반-compose-컴포넌트-preview가-안보인다면-6802334ef925)
   - 로그인/회원가입 리파인 및 Compose 전환
 
 > 2023
